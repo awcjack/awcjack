@@ -22,7 +22,7 @@
   
   **I build high-performance software that respects your hardware.**
   
-  Previously a designer, now a full-stack engineer obsessed with **Cardano DeFi**, **Local-First** principles, and **Systems Programming**. Currently building the future of trading on Hydra L2.
+  Full-stack engineer obsessed with **Cardano DeFi**, **Local-First** principles, and **Systems Programming**. Currently building the future of trading on Hydra L2.
   
   🔭 **Working on:** [DeltaDeFi](https://github.com/deltadefi-protocol) (DEX on Cardano Hydra)
   <br>
