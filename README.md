@@ -43,8 +43,8 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
   <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="Nix" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   
   <br/>
   
@@ -78,6 +78,20 @@
       <p align="center"><i>"Because I hate Electron bloat."</i> 😛</p>
     </td>
     <td width="50%" align="center" valign="top">
+      <h3 align="center">🐍 Hydra</h3>
+      <p align="center">
+        <a href="https://github.com/cardano-scaling/hydra">
+          <img src="https://img.shields.io/github/stars/cardano-scaling/hydra?style=social" alt="stars"/>
+        </a>
+      </p>
+      <p align="center">Cardano's Layer 2 scaling solution. Active contributor.</p>
+      <p align="center">
+        <code>Haskell</code> <code>Cardano</code> <code>L2</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
       <h3 align="center">📒 joplin-expenses</h3>
       <p align="center">
         <a href="https://github.com/awcjack/joplin-expenses">
@@ -89,8 +103,6 @@
         <code>TypeScript</code> <code>Joplin</code> <code>Finance</code>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <h3 align="center">📅 joplin-daily-planner</h3>
       <p align="center">
@@ -101,18 +113,6 @@
       <p align="center">Automated daily/weekly planning workflow.</p>
       <p align="center">
         <code>TypeScript</code> <code>Productivity</code>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center">🔍 git-like-audit-trail</h3>
-      <p align="center">
-        <a href="https://github.com/awcjack/git-like-audit-trail">
-          <img src="https://img.shields.io/github/stars/awcjack/git-like-audit-trail?style=social" alt="stars"/>
-        </a>
-      </p>
-      <p align="center">Track changes in your data like git commits.</p>
-      <p align="center">
-        <code>JavaScript</code> <code>Audit</code>
       </p>
     </td>
   </tr>
