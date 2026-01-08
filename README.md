@@ -124,19 +124,27 @@
 <h2 align="center">📊 The Data</h2>
 
 <div align="center">
-  <a href="https://github.com/awcjack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=awcjack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="awcjack's stats" height="180" />
-  </a>
-  <a href="https://github.com/awcjack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awcjack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=awcjack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=awcjack&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=awcjack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="awcjack's stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=awcjack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=awcjack&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=awcjack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  </picture>
 </div>
 
 <br />
 
 <!-- STREAK STATS -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awcjack&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=awcjack&theme=tokyonight&hide_border=true&background=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=awcjack&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=awcjack&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+  </picture>
 </div>
 
 <br />
