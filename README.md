@@ -29,6 +29,8 @@
   🦀 **Loving:** Rust, Tauri, and bare-metal performance
   <br>
   ❄️ **Configuring:** Reproducible systems with [NixOS](https://nixos.org)
+  <br>
+  ✍️ **Writing:** [blog.awcjack.top](https://blog.awcjack.top)
 
 </div>
 
@@ -92,6 +94,18 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
+      <h3 align="center">☸️ tmux-kube-context</h3>
+      <p align="center">
+        <a href="https://github.com/awcjack/tmux-kube-context">
+          <img src="https://img.shields.io/github/stars/awcjack/tmux-kube-context?style=social" alt="stars"/>
+        </a>
+      </p>
+      <p align="center">Isolated kube context per tmux session. Never deploy to prod by accident again.</p>
+      <p align="center">
+        <code>Shell</code> <code>Tmux</code> <code>Kubernetes</code>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
       <h3 align="center">📒 joplin-expenses</h3>
       <p align="center">
         <a href="https://github.com/awcjack/joplin-expenses">
@@ -103,6 +117,8 @@
         <code>TypeScript</code> <code>Joplin</code> <code>Finance</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <h3 align="center">📅 joplin-daily-planner</h3>
       <p align="center">
@@ -115,8 +131,25 @@
         <code>TypeScript</code> <code>Productivity</code>
       </p>
     </td>
+    <td width="50%" align="center" valign="top">
+      <!-- Empty slot for future project -->
+    </td>
   </tr>
 </table>
+
+<br />
+
+<!-- LATEST BLOG POSTS -->
+<h2 align="center">✍️ Latest from the Blog</h2>
+
+<div align="center">
+  <p>
+    <a href="https://blog.awcjack.top">
+      <img src="https://img.shields.io/badge/Read_My_Blog-0D1117?style=for-the-badge&logo=hashnode&logoColor=58A6FF" alt="Blog" />
+    </a>
+  </p>
+  <p><i>Thoughts on systems programming, blockchain, and building software that lasts.</i></p>
+</div>
 
 <br />
 
@@ -173,6 +206,7 @@
 
 <div align="center">
   <p>
+    <a href="https://blog.awcjack.top">Blog</a> • 
     <a href="https://github.com/awcjack?tab=repositories">Code</a> • 
     <a href="https://github.com/awcjack?tab=stars">Stars</a>
   </p>
