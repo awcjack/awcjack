@@ -67,7 +67,9 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3 align="center">📡 signal-tauri</h3>
+      <h3 align="center">
+        <a href="https://github.com/awcjack/signal-tauri">📡 signal-tauri</a>
+      </h3>
       <p align="center">
         <a href="https://github.com/awcjack/signal-tauri">
           <img src="https://img.shields.io/github/stars/awcjack/signal-tauri?style=social" alt="stars"/>
@@ -80,7 +82,9 @@
       <p align="center"><i>"Because I hate Electron bloat."</i> 😛</p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3 align="center">🐍 Hydra</h3>
+      <h3 align="center">
+        <a href="https://github.com/cardano-scaling/hydra">🐍 Hydra</a>
+      </h3>
       <p align="center">
         <a href="https://github.com/cardano-scaling/hydra">
           <img src="https://img.shields.io/github/stars/cardano-scaling/hydra?style=social" alt="stars"/>
@@ -94,7 +98,9 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3 align="center">☸️ tmux-kube-context</h3>
+      <h3 align="center">
+        <a href="https://github.com/awcjack/tmux-kube-context">☸️ tmux-kube-context</a>
+      </h3>
       <p align="center">
         <a href="https://github.com/awcjack/tmux-kube-context">
           <img src="https://img.shields.io/github/stars/awcjack/tmux-kube-context?style=social" alt="stars"/>
@@ -106,7 +112,9 @@
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3 align="center">📒 joplin-expenses</h3>
+      <h3 align="center">
+        <a href="https://github.com/awcjack/joplin-expenses">📒 joplin-expenses</a>
+      </h3>
       <p align="center">
         <a href="https://github.com/awcjack/joplin-expenses">
           <img src="https://img.shields.io/github/stars/awcjack/joplin-expenses?style=social" alt="stars"/>
@@ -120,7 +128,9 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3 align="center">📅 joplin-daily-planner</h3>
+      <h3 align="center">
+        <a href="https://github.com/awcjack/joplin-daily-weekly-planner">📅 joplin-daily-planner</a>
+      </h3>
       <p align="center">
         <a href="https://github.com/awcjack/joplin-daily-weekly-planner">
           <img src="https://img.shields.io/github/stars/awcjack/joplin-daily-weekly-planner?style=social" alt="stars"/>
