@@ -142,7 +142,34 @@
       </p>
     </td>
     <td width="50%" align="center" valign="top">
-      <!-- Empty slot for future project -->
+      <h3 align="center">
+        <a href="https://github.com/awcjack/matrix-claude-code-integration">🤖 matrix-claude-code-integration</a>
+      </h3>
+      <p align="center">
+        <a href="https://github.com/awcjack/matrix-claude-code-integration">
+          <img src="https://img.shields.io/github/stars/awcjack/matrix-claude-code-integration?style=social" alt="stars"/>
+        </a>
+      </p>
+      <p align="center">Matrix bot integration with Claude Code.</p>
+      <p align="center">
+        <code>Matrix</code> <code>Claude</code> <code>AI</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/awcjack/DualQuickIME">⌨️ DualQuickIME</a>
+      </h3>
+      <p align="center">
+        <a href="https://github.com/awcjack/DualQuickIME">
+          <img src="https://img.shields.io/github/stars/awcjack/DualQuickIME?style=social" alt="stars"/>
+        </a>
+      </p>
+      <p align="center">Dual-mode Chinese/English IME for Android. Type bilingually without switching keyboards.</p>
+      <p align="center">
+        <code>Kotlin</code> <code>Android</code> <code>IME</code>
+      </p>
     </td>
   </tr>
 </table>
