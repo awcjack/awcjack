@@ -129,16 +129,16 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h3 align="center">
-        <a href="https://github.com/awcjack/joplin-daily-weekly-planner">📅 joplin-daily-planner</a>
+        <a href="https://github.com/awcjack/agentbox">📦 agentbox</a>
       </h3>
       <p align="center">
-        <a href="https://github.com/awcjack/joplin-daily-weekly-planner">
-          <img src="https://img.shields.io/github/stars/awcjack/joplin-daily-weekly-planner?style=social" alt="stars"/>
+        <a href="https://github.com/awcjack/agentbox">
+          <img src="https://img.shields.io/github/stars/awcjack/agentbox?style=social" alt="stars"/>
         </a>
       </p>
-      <p align="center">Automated daily/weekly planning workflow.</p>
+      <p align="center">Self-contained AI coding-agent sandbox as a Nix flake. Runs Claude Code, Codex & OpenCode isolated from the host.</p>
       <p align="center">
-        <code>TypeScript</code> <code>Productivity</code>
+        <code>Nix</code> <code>OCI</code> <code>AI-Agents</code>
       </p>
     </td>
     <td width="50%" align="center" valign="top">
