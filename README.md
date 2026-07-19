@@ -78,18 +78,17 @@
     </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center">
-        <a href="https://github.com/awcjack/signal-tauri">📡 signal-tauri</a>
+        <a href="https://github.com/awcjack/agentbox">📦 agentbox</a>
       </h3>
       <p align="center">
-        <a href="https://github.com/awcjack/signal-tauri">
-          <img src="https://img.shields.io/github/stars/awcjack/signal-tauri?style=social" alt="stars"/>
+        <a href="https://github.com/awcjack/agentbox">
+          <img src="https://img.shields.io/github/stars/awcjack/agentbox?style=social" alt="stars"/>
         </a>
       </p>
-      <p align="center">A lightweight, native wrapper for Signal.</p>
+      <p align="center">Self-contained AI coding-agent sandbox as a Nix flake. Runs Claude Code, Codex & OpenCode isolated from the host.</p>
       <p align="center">
-        <code>Rust</code> <code>Tauri</code> <code>Privacy</code>
+        <code>Nix</code> <code>OCI</code> <code>AI-Agents</code>
       </p>
-      <p align="center"><i>"Because I hate Electron bloat."</i> 😛</p>
     </td>
   </tr>
   <tr>
@@ -125,17 +124,18 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h3 align="center">
-        <a href="https://github.com/awcjack/agentbox">📦 agentbox</a>
+        <a href="https://github.com/awcjack/signal-tauri">📡 signal-tauri</a>
       </h3>
       <p align="center">
-        <a href="https://github.com/awcjack/agentbox">
-          <img src="https://img.shields.io/github/stars/awcjack/agentbox?style=social" alt="stars"/>
+        <a href="https://github.com/awcjack/signal-tauri">
+          <img src="https://img.shields.io/github/stars/awcjack/signal-tauri?style=social" alt="stars"/>
         </a>
       </p>
-      <p align="center">Self-contained AI coding-agent sandbox as a Nix flake. Runs Claude Code, Codex & OpenCode isolated from the host.</p>
+      <p align="center">A lightweight, native wrapper for Signal.</p>
       <p align="center">
-        <code>Nix</code> <code>OCI</code> <code>AI-Agents</code>
+        <code>Rust</code> <code>Tauri</code> <code>Privacy</code>
       </p>
+      <p align="center"><i>"Because I hate Electron bloat."</i> 😛</p>
     </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center">
