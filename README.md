@@ -3,7 +3,7 @@
   <h1 align="center">
     Hi there, I'm <a href="https://github.com/awcjack" target="_blank">awcjack</a> ⚡️
   </h1>
-  <h3 align="center">Architecting Decentralized Systems & Native Apps</h3>
+  <h3 align="center">Architecting Local-First AI Systems & Native Apps</h3>
 </div>
 
 <!-- TYPING SVG HEADER -->
