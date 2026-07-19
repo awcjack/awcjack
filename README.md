@@ -64,6 +64,20 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h3 align="center">
+        <a href="https://github.com/use-brian/use-brian">🧠 Brian</a>
+      </h3>
+      <p align="center">
+        <a href="https://github.com/use-brian/use-brian">
+          <img src="https://img.shields.io/github/stars/use-brian/use-brian?style=social" alt="stars"/>
+        </a>
+      </p>
+      <p align="center">Brain, agent, workflows, and docs. A local framework to automate your work.</p>
+      <p align="center">
+        <code>TypeScript</code> <code>AI-Agents</code> <code>Local-First</code>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">
         <a href="https://github.com/awcjack/signal-tauri">📡 signal-tauri</a>
       </h3>
       <p align="center">
@@ -76,20 +90,6 @@
         <code>Rust</code> <code>Tauri</code> <code>Privacy</code>
       </p>
       <p align="center"><i>"Because I hate Electron bloat."</i> 😛</p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/cardano-scaling/hydra">🐍 Hydra</a>
-      </h3>
-      <p align="center">
-        <a href="https://github.com/cardano-scaling/hydra">
-          <img src="https://img.shields.io/github/stars/cardano-scaling/hydra?style=social" alt="stars"/>
-        </a>
-      </p>
-      <p align="center">Cardano's Layer 2 scaling solution. Active contributor.</p>
-      <p align="center">
-        <code>Haskell</code> <code>Cardano</code> <code>L2</code>
-      </p>
     </td>
   </tr>
   <tr>
