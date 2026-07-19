@@ -22,10 +22,6 @@
   
   **I build high-performance software that respects your hardware.**
   
-  Full-stack engineer obsessed with **Cardano DeFi**, **Local-First** principles, and **Systems Programming**. Currently building the future of trading on Hydra L2.
-  
-  🔭 **Working on:** [DeltaDeFi](https://github.com/deltadefi-protocol) (DEX on Cardano Hydra)
-  <br>
   🦀 **Loving:** Rust, Tauri, and bare-metal performance
   <br>
   ❄️ **Configuring:** Reproducible systems with [NixOS](https://nixos.org)
