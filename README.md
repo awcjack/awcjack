@@ -1,11 +1,10 @@
 # Hi, I'm awcjack
 
-I build local-first AI systems and lightweight native apps, with a focus on
-performance, privacy, and software that respects the hardware it runs on.
+I'm a blockchain engineer at DeltaDeFi building local-first AI systems and
+lightweight native apps. I care about performance, privacy, and reproducible
+software.
 
-I'm a blockchain engineer at DeltaDeFi and work mostly with Rust, Go,
-TypeScript, and Nix. I also enjoy Tauri, NixOS, distributed systems, and
-reproducible development environments.
+Main tools: Rust, Go, TypeScript, Nix, Tauri, and NixOS.
 
 ## Selected projects
 
