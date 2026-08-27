@@ -13,7 +13,7 @@ Main tools: Rust, Go, TypeScript, Nix, Tauri, and NixOS.
 - [signal-tauri](https://github.com/awcjack/signal-tauri) [![signal-tauri stars](https://img.shields.io/github/stars/awcjack/signal-tauri?style=flat&label=stars)](https://github.com/awcjack/signal-tauri/stargazers) - A lightweight native wrapper for Signal built with Tauri.
 - [DualQuickIME](https://github.com/awcjack/DualQuickIME) [![DualQuickIME stars](https://img.shields.io/github/stars/awcjack/DualQuickIME?style=flat&label=stars)](https://github.com/awcjack/DualQuickIME/stargazers) - A dual-mode Chinese and English keyboard for Android.
 
-## Elsewhere
+## Find me
 
 - [Blog](https://blog.awcjack.top)
-- [Repositories](https://github.com/awcjack?tab=repositories)
+- [LinkedIn](https://www.linkedin.com/in/ka-kui-chan-7270681ab/)
